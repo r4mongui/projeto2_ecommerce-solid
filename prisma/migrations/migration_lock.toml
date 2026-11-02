@@ -1,0 +1,2 @@
+# Arquivo gerenciado pelo Prisma; versionar junto das migrações.
+provider = "sqlite"
